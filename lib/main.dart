@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(const MyApp());
 }
-void ftn(){}
+
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Firebase Project',
+      title: 'MY Project',
       theme: ThemeData(
         // This is the theme of your application.
         //
